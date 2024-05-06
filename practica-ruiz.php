@@ -24,8 +24,8 @@ function calcularPorcentajeDeSuma($num1, $num2) {
 // Sumar los dos números
 $suma = $num1 + $num2;
     
-// Se calcula el 20% de la suma
-$porcentaje = $suma * 0.20;
+// Se calcula el 50% de la suma
+$porcentaje = $suma * 0.50;
     
 return $porcentaje;
 }
